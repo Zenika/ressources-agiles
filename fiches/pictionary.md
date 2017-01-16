@@ -1,38 +1,28 @@
 # Pictionary
 
-Collecte
+Collecte d'information  
+1h
 
 ## Qui ?
 
-Plusieurs équipes de 1 à 5 personnes.
-
-## Quoi ?
-
- * Collecte d’information de manière ludique
- * Besoin de discussion et d’une réflexion d’équipe
- * Collecte d’information pour un grand groupe
+Équipes de 1 à 5 personnes.
 
 ## Quand ?
 
- * Peut servir d’ice breaker (draw your mood)
+ * Peut servir d’_ice breaker_ (_draw your mood_
  * Utile sur une rétrospective, un point d’amélioration
  * Peut être adapté en atelier de réflexion
 
-Avantage
 
-* Ludique
-* Favorise la réflexion par petit groupe
-* Favorise l’empathie grâce au côté devinette du jeu
-* Peu restrictif, tout type d’information peut être remonté
+| +             |   -     |
+| ------------- | -----   |
+| Ludique       |  Potentiel problème de timidité du au dessin à exposer  |
+| Adapté à un grand groupe     |   Potentiellement long  |
+| Favorise la réflexion par petits groupes                  |      |
+| Favorise l’empathie grâce au côté devinette du jeu        |      |
+| Peu restrictif, tout type d’information peut être remonté |      |
 
-Inconvénient
-
-* Potentiel problème de timidité du au dessin à exposer
-* Potentiellement long
-
-Déroulement
-Durée : environs 1 heure
-Etapes :
+## Déroulement
 
 Par petit groupe si nécessaire, les participants réfléchissent aux points à remonter et au dessin à faire pour l’illustrer (15 mn)
 A tour de rôle, un représentant de chaque groupe vient présenter les dessins. Le reste des participants doivent deviner le point à remonter (40 mn)
